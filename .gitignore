@@ -27,3 +27,8 @@ ch07/plot_at_epoch_9.png
 ch08/src_data/
 ch08/cats_vs_dogs_small/
 ch08/convnet_from_scratch.keras
+ch08/convnet_from_scratch_with_augmentation.keras
+ch08/feature_extraction_with_data_augmentation.keras
+ch08/feature_extraction.keras
+ch08/fine_tuning.keras
+ch08/src_data.zip
