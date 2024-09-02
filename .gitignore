@@ -36,3 +36,6 @@ ch09/annotations/
 ch09/images/
 ch09/annotations.tar.gz
 ch09/images.tar.gz
+ch07/checkpoint_path.keras
+ch07/updated_ticket_classifier.png
+ch07/ticket_classifier_with_shape_info.png
