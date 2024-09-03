@@ -39,3 +39,6 @@ ch09/images.tar.gz
 ch07/checkpoint_path.keras
 ch07/updated_ticket_classifier.png
 ch07/ticket_classifier_with_shape_info.png
+ch09/cats_vs_dogs_small/
+ch09/src_data/
+ch09/convnet_from_scratch_with_augmentation.keras
