@@ -42,3 +42,7 @@ ch07/ticket_classifier_with_shape_info.png
 ch09/cats_vs_dogs_small/
 ch09/src_data/
 ch09/convnet_from_scratch_with_augmentation.keras
+ch10/jena_climate_2009_2016.csv
+ch10/jena_dense.keras
+ch10/jena_climate_2009_2016.csv.zip
+ch09/elephant_cam.jpg
