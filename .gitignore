@@ -46,3 +46,12 @@ ch10/jena_climate_2009_2016.csv
 ch10/jena_dense.keras
 ch10/jena_climate_2009_2016.csv.zip
 ch09/elephant_cam.jpg
+ch11/aclImdb/
+ch11/glove.6B/
+ch11/binary_1gram.keras
+ch11/binary_2gram.keras
+ch11/embeddings_bidir_lstm_with_masking.keras
+ch11/glove_embeddings_sequence_model.keras
+ch11/glove.6B.zip
+ch11/tfidf_2gram.keras
+ch11/transformer_encoder.keras
